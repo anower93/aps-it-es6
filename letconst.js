@@ -23,4 +23,13 @@ const apsit = {name:"Anower", phone:1722142400};
 
 console.log(apsit);
 
+//Let variable ta tar scope onujaye kaj korbe.
+
+//Ekon theke R variable use korar etota dorkar nai
+
+
+for(let i = 0; i<=10; i++){
+    console.log(i);
+
+}
 
